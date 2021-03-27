@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/simple-storage-deploy/static/css/main.b100e6da.chunk.css",
-    "main.js": "/simple-storage-deploy/static/js/main.aa9fd057.chunk.js",
-    "main.js.map": "/simple-storage-deploy/static/js/main.aa9fd057.chunk.js.map",
+    "main.js": "/simple-storage-deploy/static/js/main.06919c8c.chunk.js",
+    "main.js.map": "/simple-storage-deploy/static/js/main.06919c8c.chunk.js.map",
     "runtime-main.js": "/simple-storage-deploy/static/js/runtime-main.f5e89d9c.js",
     "runtime-main.js.map": "/simple-storage-deploy/static/js/runtime-main.f5e89d9c.js.map",
     "static/js/2.b3b3570b.chunk.js": "/simple-storage-deploy/static/js/2.b3b3570b.chunk.js",
     "static/js/2.b3b3570b.chunk.js.map": "/simple-storage-deploy/static/js/2.b3b3570b.chunk.js.map",
     "index.html": "/simple-storage-deploy/index.html",
-    "precache-manifest.191e20e68574755648ddb0ddeed4212b.js": "/simple-storage-deploy/precache-manifest.191e20e68574755648ddb0ddeed4212b.js",
+    "precache-manifest.fb2373cc5de7344c093d57a6c6d6f329.js": "/simple-storage-deploy/precache-manifest.fb2373cc5de7344c093d57a6c6d6f329.js",
     "service-worker.js": "/simple-storage-deploy/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/simple-storage-deploy/static/css/main.b100e6da.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.f5e89d9c.js",
     "static/js/2.b3b3570b.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.aa9fd057.chunk.js"
+    "static/js/main.06919c8c.chunk.js"
   ]
 }
