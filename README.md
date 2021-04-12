@@ -40,7 +40,7 @@ To https://git.heroku.com/simple-storage-deploy.git
 
 ```
 
-[Résultat sur Heroku (utiliser un compte sur Ropsten)](https://pacific-fortress-09484.herokuapp.com/)
+[Résultat sur Heroku (utiliser un compte sur Ropsten)](https://simple-storage-deploy.herokuapp.com/)
 
 ## Github Pages
 **Pré-requis**
